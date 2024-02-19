@@ -1,0 +1,272 @@
+,entity_id,sciname,STATE,NAME,CENSUSAREA
+0,9378,Eleutherodactylus juanariveroi,72,Puerto Rico,3423.775
+1,117,Agelaius xanthomus,72,Puerto Rico,3423.775
+2,193,Eleutherodactylus jasperi,72,Puerto Rico,3423.775
+3,196,Eleutherodactylus cooki,72,Puerto Rico,3423.775
+4,165,Cyclura stejnegeri,72,Puerto Rico,3423.775
+5,4237,Setophaga angelae,72,Puerto Rico,3423.775
+6,153,Eretmochelys imbricata,72,Puerto Rico,3423.775
+7,247,Noturus flavipinnis,51,Virginia,39490.086
+8,358,Epioblasma capsaeformis,51,Virginia,39490.086
+9,246,Erimystax cahni,51,Virginia,39490.086
+10,1,Myotis sodalis,51,Virginia,39490.086
+11,4074,Elliptio lanceolata,51,Virginia,39490.086
+12,247,Noturus flavipinnis,47,Tennessee,41234.896
+13,1881,Helianthus verticillatus,47,Tennessee,41234.896
+14,358,Epioblasma capsaeformis,47,Tennessee,41234.896
+15,8134,Simpsonaias ambigua,47,Tennessee,41234.896
+16,11662,Noturus munitus,47,Tennessee,41234.896
+17,3069,Etheostoma trisella,47,Tennessee,41234.896
+18,468,Microhexura montivaga,47,Tennessee,41234.896
+19,630,Arabis perstellata,47,Tennessee,41234.896
+20,246,Erimystax cahni,47,Tennessee,41234.896
+21,1,Myotis sodalis,47,Tennessee,41234.896
+22,354,Alasmidonta raveneliana,47,Tennessee,41234.896
+23,294,Percina jenkinsi,47,Tennessee,41234.896
+24,293,Percina antesella,47,Tennessee,41234.896
+25,239,Etheostoma boschungi,47,Tennessee,41234.896
+26,6297,Gila intermedia,35,New Mexico,121298.148
+27,206,Rana chiricahuensis,35,New Mexico,121298.148
+28,309,Hybognathus amarus,35,New Mexico,121298.148
+29,290,Xyrauchen texanus,35,New Mexico,121298.148
+30,18,Panthera onca,35,New Mexico,121298.148
+31,129,Strix occidentalis lucida,35,New Mexico,121298.148
+32,6901,Coccyzus americanus,35,New Mexico,121298.148
+33,6297,Gila intermedia,04,Arizona,113594.084
+34,234,Plagopterus argentissimus,04,Arizona,113594.084
+35,206,Rana chiricahuensis,04,Arizona,113594.084
+36,290,Xyrauchen texanus,04,Arizona,113594.084
+37,18,Panthera onca,04,Arizona,113594.084
+38,275,Cyprinodon macularius,04,Arizona,113594.084
+39,209,Gila cypha,04,Arizona,113594.084
+40,185,Gopherus agassizii,04,Arizona,113594.084
+41,43,Tamiasciurus fremonti grahamensis,04,Arizona,113594.084
+42,129,Strix occidentalis lucida,04,Arizona,113594.084
+43,276,Cyprinella formosa,04,Arizona,113594.084
+44,249,Gila elegans,04,Arizona,113594.084
+45,255,Gila ditaenia,04,Arizona,113594.084
+46,263,Gila purpurea,04,Arizona,113594.084
+47,6901,Coccyzus americanus,04,Arizona,113594.084
+48,81,Pseudonestor xanthophrys,15,Hawaii,6422.628
+49,635,Argyroxiphium sandwicense ssp. macrocephalum,15,Hawaii,6422.628
+50,1016,Xylosma crenatum,15,Hawaii,6422.628
+51,862,Vigna o-wahuensis,15,Hawaii,6422.628
+52,729,Kadua st.-johnii,15,Hawaii,6422.628
+53,623,Schiedea trinervis,15,Hawaii,6422.628
+54,622,Schiedea obovata,15,Hawaii,6422.628
+55,79,Loxioides bailleui,15,Hawaii,6422.628
+56,418,Erinna newcombi,15,Hawaii,6422.628
+57,463,Adelocosa anops,15,Hawaii,6422.628
+58,150,Chasiempis ibidis,15,Hawaii,6422.628
+59,6522,Loxops caeruleirostris,15,Hawaii,6422.628
+60,4136,Oreomystis bairdi,15,Hawaii,6422.628
+61,10073,Drepanis coccinea,15,Hawaii,6422.628
+62,74,Palmeria dolei,15,Hawaii,6422.628
+63,518,Mezoneuron kavaiense,15,Hawaii,6422.628
+64,406,Antrobia culveri,29,Missouri,68741.522
+65,1,Myotis sodalis,29,Missouri,68741.522
+66,445,Somatochlora hineana,29,Missouri,68741.522
+67,257,Etheostoma nianguae,29,Missouri,68741.522
+68,28,Microtus californicus scirpensis,06,California,155779.22
+69,143,Brachyramphus marmoratus,06,California,155779.22
+70,203,Ambystoma californiense,06,California,155779.22
+71,56,Ovis canadensis nelsoni,06,California,155779.22
+72,290,Xyrauchen texanus,06,California,155779.22
+73,66,Gymnogyps californianus,06,California,155779.22
+74,8395,Ambystoma californiense,06,California,155779.22
+75,57,Ovis canadensis sierrae,06,California,155779.22
+76,312,Catostomus santaanae,06,California,155779.22
+77,275,Cyprinodon macularius,06,California,155779.22
+78,506,Arenaria ursina,06,California,155779.22
+79,10517,Rana sierrae,06,California,155779.22
+80,1171,Piperia yadonii,06,California,155779.22
+81,5688,Batrachoseps relictus,06,California,155779.22
+82,580,Neostapfia colusana,06,California,155779.22
+83,1984,Lycaena hermes,06,California,155779.22
+84,185,Gopherus agassizii,06,California,155779.22
+85,4773,Ambystoma californiense,06,California,155779.22
+86,387,Helminthoglypta walkeriana,06,California,155779.22
+87,10078,Martes caurina,06,California,155779.22
+88,1707,Anaxyrus canorus,06,California,155779.22
+89,16,Dipodomys heermanni morroensis,06,California,155779.22
+90,306,Eucyclogobius newberryi,06,California,155779.22
+91,58,Sorex ornatus relictus,06,California,155779.22
+92,145,Polioptila californica californica,06,California,155779.22
+93,142,Strix occidentalis caurina,06,California,155779.22
+94,175,Uma inornata,06,California,155779.22
+95,432,Glaucopsyche lygdamus palosverdesensis,06,California,155779.22
+96,438,Euphydryas editha bayensis,06,California,155779.22
+97,490,Branchinecta conservatio,06,California,155779.22
+98,205,Rana draytonii,06,California,155779.22
+99,8503,Dinacoma caseyi,06,California,155779.22
+100,436,Desmocerus californicus dimorphus,06,California,155779.22
+101,37,Dipodomys nitratoides exilis,06,California,155779.22
+102,249,Gila elegans,06,California,155779.22
+103,204,Anaxyrus californicus,06,California,155779.22
+104,288,Deltistes luxatus,06,California,155779.22
+105,305,Hypomesus transpacificus,06,California,155779.22
+106,291,Chasmistes brevirostris,06,California,155779.22
+107,6901,Coccyzus americanus,06,California,155779.22
+108,528,Chlorogalum purpureum,06,California,155779.22
+109,11653,Pekania pennanti,06,California,155779.22
+110,4090,Rana pretiosa,41,Oregon,95988.013
+111,143,Brachyramphus marmoratus,41,Oregon,95988.013
+112,450,Icaricia icarioides fenderi,41,Oregon,95988.013
+113,301,Salvelinus confluentus,41,Oregon,95988.013
+114,10078,Martes caurina,41,Oregon,95988.013
+115,1126,Lupinus sulphureus ssp. kincaidii,41,Oregon,95988.013
+116,142,Strix occidentalis caurina,41,Oregon,95988.013
+117,288,Deltistes luxatus,41,Oregon,95988.013
+118,291,Chasmistes brevirostris,41,Oregon,95988.013
+119,4090,Rana pretiosa,53,Washington,66455.521
+120,143,Brachyramphus marmoratus,53,Washington,66455.521
+121,24,Lynx canadensis,53,Washington,66455.521
+122,301,Salvelinus confluentus,53,Washington,66455.521
+123,1126,Lupinus sulphureus ssp. kincaidii,53,Washington,66455.521
+124,142,Strix occidentalis caurina,53,Washington,66455.521
+125,1881,Helianthus verticillatus,01,Alabama,50645.326
+126,131,Charadrius melodus,01,Alabama,50645.326
+127,358,Epioblasma capsaeformis,01,Alabama,50645.326
+128,3069,Etheostoma trisella,01,Alabama,50645.326
+129,316,Etheostoma chermocki,01,Alabama,50645.326
+130,41,Peromyscus polionotus ammobates,01,Alabama,50645.326
+131,239,Etheostoma boschungi,01,Alabama,50645.326
+132,7332,Elassoma alabamae,01,Alabama,50645.326
+133,236,Speoplatyrhinus poulsoni,01,Alabama,50645.326
+134,9707,Caretta caretta,01,Alabama,50645.326
+135,35,Peromyscus polionotus trissyllepsis,01,Alabama,50645.326
+136,1881,Helianthus verticillatus,13,Georgia,57513.485
+137,131,Charadrius melodus,13,Georgia,57513.485
+138,11662,Noturus munitus,13,Georgia,57513.485
+139,3069,Etheostoma trisella,13,Georgia,57513.485
+140,294,Percina jenkinsi,13,Georgia,57513.485
+141,293,Percina antesella,13,Georgia,57513.485
+142,7,Trichechus manatus,13,Georgia,57513.485
+143,9707,Caretta caretta,13,Georgia,57513.485
+144,131,Charadrius melodus,37,North Carolina,48617.905
+145,370,Lasmigona decorata,37,North Carolina,48617.905
+146,5288,Noturus furiosus,37,North Carolina,48617.905
+147,2932,Necturus lewisi,37,North Carolina,48617.905
+148,468,Microhexura montivaga,37,North Carolina,48617.905
+149,1,Myotis sodalis,37,North Carolina,48617.905
+150,354,Alasmidonta raveneliana,37,North Carolina,48617.905
+151,242,Notropis mekistocholas,37,North Carolina,48617.905
+152,4074,Elliptio lanceolata,37,North Carolina,48617.905
+153,9707,Caretta caretta,37,North Carolina,48617.905
+154,131,Charadrius melodus,48,Texas,261231.711
+155,6346,Eurycea waterlooensis,48,Texas,261231.711
+156,454,Stygoparnus comalensis,48,Texas,261231.711
+157,194,Eurycea nana,48,Texas,261231.711
+158,190,Bufo houstonensis,48,Texas,261231.711
+159,228,Etheostoma fonticola,48,Texas,261231.711
+160,272,Dionda diaboli,48,Texas,261231.711
+161,8231,Eurycea tonkawae,48,Texas,261231.711
+162,5434,Eurycea naufragia,48,Texas,261231.711
+163,6901,Coccyzus americanus,48,Texas,261231.711
+164,3722,Pituophis ruthveni,48,Texas,261231.711
+165,67,Grus americana,48,Texas,261231.711
+166,131,Charadrius melodus,12,Florida,53624.759
+167,9725,Eumops floridanus,12,Florida,53624.759
+168,85,Ammospiza maritima mirabilis,12,Florida,53624.759
+169,29,Oryzomys palustris natator,12,Florida,53624.759
+170,176,Crocodylus acutus,12,Florida,53624.759
+171,7,Trichechus manatus,12,Florida,53624.759
+172,9707,Caretta caretta,12,Florida,53624.759
+173,54,Peromyscus polionotus peninsularis,12,Florida,53624.759
+174,35,Peromyscus polionotus trissyllepsis,12,Florida,53624.759
+175,199,Ambystoma cingulatum,12,Florida,53624.759
+176,131,Charadrius melodus,22,Louisiana,43203.905
+177,3722,Pituophis ruthveni,22,Louisiana,43203.905
+178,131,Charadrius melodus,28,Mississippi,46923.274
+179,358,Epioblasma capsaeformis,28,Mississippi,46923.274
+180,208,Rana sevosa,28,Mississippi,46923.274
+181,9707,Caretta caretta,28,Mississippi,46923.274
+182,131,Charadrius melodus,45,South Carolina,30060.696
+183,370,Lasmigona decorata,45,South Carolina,30060.696
+184,9707,Caretta caretta,45,South Carolina,30060.696
+185,199,Ambystoma cingulatum,45,South Carolina,30060.696
+186,131,Charadrius melodus,27,Minnesota,79626.743
+187,24,Lynx canadensis,27,Minnesota,79626.743
+188,8134,Simpsonaias ambigua,27,Minnesota,79626.743
+189,130,Charadrius melodus,27,Minnesota,79626.743
+190,12,Canis lupus,27,Minnesota,79626.743
+191,131,Charadrius melodus,31,Nebraska,76824.171
+192,4910,Cicindela nevadica lincolniana,31,Nebraska,76824.171
+193,67,Grus americana,31,Nebraska,76824.171
+194,131,Charadrius melodus,46,South Dakota,75811.0
+195,131,Charadrius melodus,30,Montana,145545.801
+196,24,Lynx canadensis,30,Montana,145545.801
+197,301,Salvelinus confluentus,30,Montana,145545.801
+198,131,Charadrius melodus,38,North Dakota,69000.798
+199,314,Acipenser transmontanus,16,Idaho,82643.117
+200,24,Lynx canadensis,16,Idaho,82643.117
+201,301,Salvelinus confluentus,16,Idaho,82643.117
+202,6901,Coccyzus americanus,16,Idaho,82643.117
+203,234,Plagopterus argentissimus,32,Nevada,109781.18
+204,290,Xyrauchen texanus,32,Nevada,109781.18
+205,185,Gopherus agassizii,32,Nevada,109781.18
+206,283,Crenichthys baileyi grandis,32,Nevada,109781.18
+207,249,Gila elegans,32,Nevada,109781.18
+208,285,Crenichthys baileyi baileyi,32,Nevada,109781.18
+209,660,Centaurium namophilum,32,Nevada,109781.18
+210,234,Plagopterus argentissimus,49,Utah,82169.62
+211,290,Xyrauchen texanus,49,Utah,82169.62
+212,209,Gila cypha,49,Utah,82169.62
+213,287,Chasmistes liorus,49,Utah,82169.62
+214,185,Gopherus agassizii,49,Utah,82169.62
+215,888,Astragalus montii,49,Utah,82169.62
+216,129,Strix occidentalis lucida,49,Utah,82169.62
+217,4064,Centrocercus minimus,49,Utah,82169.62
+218,249,Gila elegans,49,Utah,82169.62
+219,6901,Coccyzus americanus,49,Utah,82169.62
+220,299,Notropis girardi,40,Oklahoma,68594.921
+221,238,Percina pantherina,40,Oklahoma,68594.921
+222,67,Grus americana,40,Oklahoma,68594.921
+223,299,Notropis girardi,20,Kansas,81758.717
+224,67,Grus americana,20,Kansas,81758.717
+225,290,Xyrauchen texanus,08,Colorado,103641.888
+226,209,Gila cypha,08,Colorado,103641.888
+227,129,Strix occidentalis lucida,08,Colorado,103641.888
+228,4064,Centrocercus minimus,08,Colorado,103641.888
+229,249,Gila elegans,08,Colorado,103641.888
+230,52,Zapus hudsonius preblei,08,Colorado,103641.888
+231,6901,Coccyzus americanus,08,Colorado,103641.888
+232,24,Lynx canadensis,56,Wyoming,97093.141
+233,24,Lynx canadensis,23,Maine,30842.923
+234,10077,Salmo salar,23,Maine,30842.923
+235,358,Epioblasma capsaeformis,21,Kentucky,39486.338
+236,8134,Simpsonaias ambigua,21,Kentucky,39486.338
+237,630,Arabis perstellata,21,Kentucky,39486.338
+238,6557,Crystallaria cincotta,21,Kentucky,39486.338
+239,482,Palaemonias ganteri,21,Kentucky,39486.338
+240,1,Myotis sodalis,21,Kentucky,39486.338
+241,8134,Simpsonaias ambigua,42,Pennsylvania,44742.703
+242,130,Charadrius melodus,42,Pennsylvania,44742.703
+243,8134,Simpsonaias ambigua,54,West Virginia,24038.21
+244,6557,Crystallaria cincotta,54,West Virginia,24038.21
+245,1,Myotis sodalis,54,West Virginia,24038.21
+246,8134,Simpsonaias ambigua,18,Indiana,35826.109
+247,1,Myotis sodalis,18,Indiana,35826.109
+248,130,Charadrius melodus,18,Indiana,35826.109
+249,8134,Simpsonaias ambigua,39,Ohio,40860.694
+250,1,Myotis sodalis,39,Ohio,40860.694
+251,130,Charadrius melodus,39,Ohio,40860.694
+252,8134,Simpsonaias ambigua,55,Wisconsin,54157.805
+253,445,Somatochlora hineana,55,Wisconsin,54157.805
+254,130,Charadrius melodus,55,Wisconsin,54157.805
+255,8134,Simpsonaias ambigua,26,Michigan,56538.901
+256,445,Somatochlora hineana,26,Michigan,56538.901
+257,130,Charadrius melodus,26,Michigan,56538.901
+258,8134,Simpsonaias ambigua,36,New York,47126.399
+259,130,Charadrius melodus,36,New York,47126.399
+260,147,Polysticta stelleri,02,Alaska,570640.95
+261,5232,Enhydra lutris kenyoni,02,Alaska,570640.95
+262,146,Somateria fischeri,02,Alaska,570640.95
+263,8861,Ursus maritimus,02,Alaska,570640.95
+264,170,Pseudemys rubriventris bangsi,25,Massachusetts,7800.058
+265,1,Myotis sodalis,17,Illinois,55518.93
+266,445,Somatochlora hineana,17,Illinois,55518.93
+267,130,Charadrius melodus,17,Illinois,55518.93
+268,6662,Etheostoma moorei,05,Arkansas,52035.477
+269,238,Percina pantherina,05,Arkansas,52035.477
+270,4074,Elliptio lanceolata,24,Maryland,9707.241
